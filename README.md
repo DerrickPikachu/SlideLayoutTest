@@ -1,0 +1,2 @@
+# SlideLayoutTest
+test using ViewPager
